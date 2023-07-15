@@ -1,0 +1,23 @@
+.flipkart{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header{
+    font-size: 20px;
+    color: white;
+    background-color: rgb(84, 26, 221);
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    background-size: cover;
+}
+.body{
+    text-align: center;
+    background-color: rgb(213, 218, 230);
+}
+h4{
+    color: rgb(148, 47, 230);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
